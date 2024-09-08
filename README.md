@@ -30,4 +30,5 @@ O `journalctl` permite visualizar mensagens de log do sistema em tempo real, apl
 
 ### Mais detalhes
 
-Veja o arquivo [análise-journalctl.md] para uma explicação mais completa e exemplos práticos de como usar o `journalctl`.
+[Veja o arquivo análise-journalctl.md para uma explicação mais completa e exemplos práticos de como usar o journalctl](análise-journalctl.md)
+
